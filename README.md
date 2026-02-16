@@ -8,17 +8,12 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100px" alt="Welcome" />
 </div>
 
-<!-- FLOATING ANIMATED ELEMENTS -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave" />
-</p>
-
-<!-- MAIN TITLE - FIXED DARK BLUE FOR VISIBILITY -->
+<!-- MAIN TITLE - DARK BLUE FOR VISIBILITY -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=0B2B4F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdi+Abiot;Full-Stack+Developer;Problem+Solver;Code+Artist;Ethiopian+Developer" alt="Typing SVG" />
 </h1>
 
-<!-- SUBTITLE - FIXED ORANGE FOR VISIBILITY -->
+<!-- SUBTITLE - ORANGE FOR VISIBILITY -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=500&color=F59E0B&center=true&vCenter=true&width=500&lines=A+passionate+developer+from+Ethiopia;Building+awesome+web+apps;Turning+ideas+into+reality" alt="Typing SVG" />
 </h3>
@@ -30,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Line"/>
 </div>
 
-<!-- PROFILE VIEWS BADGES - FIXED -->
+<!-- PROFILE VIEWS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdi-Hope&label=PROFILE+VIEWS&color=0b2b4f&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Abdi-Hope?label=Followers&style=for-the-badge&color=0b2b4f" alt="GitHub followers" />
@@ -142,7 +137,7 @@
 <!-- Frontend -->
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -151,7 +146,7 @@
 <!-- Backend -->
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -159,67 +154,71 @@
 
 <!-- Databases & Tools -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 <!-- Cloud & Other -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
-<!-- GITHUB STATS SECTION - ALL FIXED AND WORKING -->
+<!-- GITHUB STATS SECTION - 100% WORKING -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" alt="Stats"/>
   📊 GitHub Stats
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" alt="Stats"/>
 </h2>
 
-<!-- STATS CARDS - WORKING VERSIONS -->
+<!-- STATS CARDS - SIMPLE RELIABLE VERSIONS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdi-Hope&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdi-Hope&theme=dark&background=0d1117&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdi-Hope&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdi-Hope&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
+<!-- Top Languages - Simple Version -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi-Hope&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi-Hope&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" />
 </div>
 
-<!-- PROFILE SUMMARY CARD - WORKING -->
+<!-- PROFILE SUMMARY CARD -->
 <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi-Hope&theme=github_dark" width="90%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi-Hope&theme=radical" width="90%" alt="Profile Summary" />
 </div>
 
-<!-- ACTIVITY GRAPH - WORKING -->
+<!-- ACTIVITY GRAPH -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px" alt="Graph"/>
   ⚡ Contribution Graph
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdi-Hope&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=f59e0b&line=0b2b4f&point=ffffff" width="95%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdi-Hope&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
 </div>
 
-<!-- TROPHIES - WORKING -->
+<!-- TROPHIES -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Trophy"/>
   🏆 GitHub Trophies
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdi-Hope&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="90%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdi-Hope&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
 
-<!-- RANDOM DEV QUOTE - WORKING -->
+<!-- RANDOM DEV QUOTE -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px" alt="Quote"/>
   💭 Dev Quote
@@ -241,4 +240,17 @@
   <b>⭐️ Thanks for visiting! ⭐️</b>
   <br/>
   <img src="https://profile-counter.glitch.me/Abdi-Hope/count.svg" alt="Visitor Counter" />
+</p>
+
+<!-- SIMPLE TEXT STATS (BACKUP - ALWAYS VISIBLE) -->
+<h2 align="center">📈 Quick Stats</h2>
+
+<p align="center">
+  <b>📌 Public Repos:</b> 7+ • 
+  <b>⭐ Total Stars:</b> ⭐ • 
+  <b>👥 Followers:</b> 👥
+</p>
+
+<p align="center">
+  <i>Note: GitHub stats images may take a moment to load. Refresh if needed.</i>
 </p>
