@@ -89,7 +89,25 @@
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"/>
   🛠️ Languages and Tools
 </h2>
+<!-- 3D Stats Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi-Hope&theme=github_dark" width="90%" alt="Profile Summary" />
+</p>
 
+<!-- Contribution Grid Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<!-- Spotify Playing (Optional) -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LMcAnsBIffkiNk60fw/giphy.gif" width="30px"/>
+  🎵 What I'm Listening To
+</h2>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+</p>
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=30&labelColor=0b2b4f" alt="React" />
