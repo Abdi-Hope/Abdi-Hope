@@ -5,29 +5,29 @@
 
 <!-- WELCOME ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100px" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100px" alt="Welcome" />
 </div>
 
 <!-- FLOATING ANIMATED ELEMENTS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave" />
 </p>
 
 <!-- MAIN TITLE - FIXED DARK BLUE FOR VISIBILITY -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=0B2B4F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdi+Abiot;Full-Stack+Developer;Problem+Solver;Code+Artist;Ethiopian+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=0B2B4F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdi+Abiot;Full-Stack+Developer;Problem+Solver;Code+Artist;Ethiopian+Developer" alt="Typing SVG" />
 </h1>
 
 <!-- SUBTITLE - FIXED ORANGE FOR VISIBILITY -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=A+passionate+developer+from+Ethiopia;Building+awesome+web+apps;Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=500&color=F59E0B&center=true&vCenter=true&width=500&lines=A+passionate+developer+from+Ethiopia;Building+awesome+web+apps;Turning+ideas+into+reality" alt="Typing SVG" />
 </h3>
 
 <!-- WELCOME BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" width="50%"/>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" width="50%" alt="Welcome Banner"/>
   <br/>
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Line"/>
 </div>
 
 <!-- PROFILE VIEWS BADGES - FIXED -->
@@ -39,15 +39,15 @@
 
 <!-- RAINBOW DIVIDER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </div>
 
 <!-- ABOUT ME SECTION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  <img src="https://media2.giphy.com/media/LMcAnsBIffkiNk60fw/giphy.gif" width="35px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave"/>
+  <img src="https://media.giphy.com/media/LMcAnsBIffkiNk60fw/giphy.gif" width="35px" alt="Code"/>
   About Me
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"/>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" alt="Git"/>
 </h2>
 
 <!-- ABOUT ME CARD -->
@@ -58,8 +58,8 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 20px;" alt="Coding GIF" />
       </td>
       <td width="60%" align="left">
-        <h3 style="color: #f59e0b;">👨‍💻 Who Am I?</h3>
-        <p style="font-size: 16px; line-height: 1.8; color: #333;">
+        <h3 style="color: #f59e0b; margin: 0;">👨‍💻 Who Am I?</h3>
+        <p style="font-size: 16px; line-height: 1.8;">
           <b>Software Engineering student</b> at Dire Dawa University with experience in full-stack development. 
           <br/><br/>
           🚀 Passionate about building web applications and solving real-world problems through code.
@@ -75,28 +75,28 @@
 
 <!-- CURRENT ACTIVITY SECTION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
   📌 Current Activity
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
 </h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="250">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60px" />
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60px" alt="Working" />
         <br/>
         <b>🔭 Working on:</b>
         <br/>AE-Platform
       </td>
       <td align="center" width="250">
-        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" />
+        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" alt="Learning" />
         <br/>
         <b>🌱 Learning:</b>
         <br/>Node.js & MongoDB
       </td>
       <td align="center" width="250">
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60px" />
+        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60px" alt="Ask me" />
         <br/>
         <b>💬 Ask me about:</b>
         <br/>React, Tailwind, Java, PHP
@@ -107,9 +107,9 @@
 
 <!-- CONNECT WITH ME -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" alt="Connect"/>
   🌐 Connect With Me
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" alt="Connect"/>
 </h2>
 
 <p align="center">
@@ -129,56 +129,56 @@
 
 <!-- DIVIDER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Divider"/>
 </div>
 
 <!-- TECH STACK SECTION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px" alt="Tools"/>
   🛠️ Tech Stack
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px" alt="Tools"/>
 </h2>
 
 <!-- Frontend -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 <!-- Backend -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 <!-- Databases & Tools -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 <!-- Cloud & Other -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 <!-- GITHUB STATS SECTION - ALL FIXED AND WORKING -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" alt="Stats"/>
   📊 GitHub Stats
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" alt="Stats"/>
 </h2>
 
 <!-- STATS CARDS - WORKING VERSIONS -->
@@ -201,7 +201,7 @@
 
 <!-- ACTIVITY GRAPH - WORKING -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px" alt="Graph"/>
   ⚡ Contribution Graph
 </h2>
 
@@ -209,21 +209,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdi-Hope&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=f59e0b&line=0b2b4f&point=ffffff" width="95%" alt="GitHub Activity Graph" />
 </div>
 
-<!-- SNAKE ANIMATION - WORKING (requires setup) -->
-<!-- Note: For snake to work, you need to set up a GitHub Action -->
-<!--
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdi-Hope/Abdi-Hope/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdi-Hope/Abdi-Hope/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdi-Hope/Abdi-Hope/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
--->
-
 <!-- TROPHIES - WORKING -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Trophy"/>
   🏆 GitHub Trophies
 </h2>
 
@@ -233,7 +221,7 @@
 
 <!-- RANDOM DEV QUOTE - WORKING -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px" alt="Quote"/>
   💭 Dev Quote
 </h2>
 
@@ -248,7 +236,7 @@
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake" />
   <br/>
   <b>⭐️ Thanks for visiting! ⭐️</b>
   <br/>
