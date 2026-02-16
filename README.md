@@ -76,7 +76,7 @@
   <a href="https://github.com/Abdi-Hope" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="GitHub" />
   </a>
-  <a href="https://abdihope.dev" target="_blank">
+  <a href="https://abdihope.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Portfolio" />
   </a>
 </p>
@@ -84,30 +84,12 @@
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-<!-- Languages and Tools Section with Animated Icons -->
+<!-- Languages and Tools Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"/>
   🛠️ Languages and Tools
 </h2>
-<!-- 3D Stats Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi-Hope&theme=github_dark" width="90%" alt="Profile Summary" />
-</p>
 
-<!-- Contribution Grid Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<!-- Spotify Playing (Optional) -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LMcAnsBIffkiNk60fw/giphy.gif" width="30px"/>
-  🎵 What I'm Listening To
-</h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-</p>
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=30&labelColor=0b2b4f" alt="React" />
@@ -142,14 +124,10 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Android" />
 </p>
 
-<!-- Animated Snake Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<!-- 3D Stats Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi-Hope&theme=github_dark" width="90%" alt="Profile Summary" />
+</p>
 
 <!-- GitHub Activity Graph -->
 <h2 align="center">
@@ -161,6 +139,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdi-Hope&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=F59E0B&line=0b2b4f&point=FFFFFF" width="95%" alt="GitHub Activity Graph" />
 </div>
 
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
 <!-- Trophies -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -170,6 +157,18 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdi-Hope&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
+
+<!-- Spotify Now Playing (Optional - Remove if you don't have Spotify) -->
+<!--
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LMcAnsBIffkiNk60fw/giphy.gif" width="30px"/>
+  🎵 What I'm Listening To
+</h2>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+</p>
+-->
 
 <!-- Quote of the Day -->
 <h2 align="center">
@@ -186,7 +185,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
+<!-- Visitor Counter and Footer -->
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <br/>
   <b>⭐️ From [Abdi-Hope](https://github.com/Abdi-Hope) ⭐️</b>
+  <br/>
+  <img src="https://profile-counter.glitch.me/Abdi-Hope/count.svg" alt="Visitor Counter" />
 </p>
