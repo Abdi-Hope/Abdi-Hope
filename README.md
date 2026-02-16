@@ -1,145 +1,233 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0B2B4F&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdi+Abiot;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2000&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=A+passionate+developer+from+Ethiopia;Building+awesome+web+apps" alt="Subtitle Typing SVG" />
-</h3>
-
+<!-- ANIMATED BACKGROUND EFFECT - COSMIC STYLE -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=200&section=header&text=Abdi%20Abiot&fontSize=60&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=65" width="100%" alt="Header"/>
 </div>
 
-<!-- Profile Views Counter & Badges -->
+<!-- ROTATING LIGHT EFFECT - ENTIRE PROFILE GLOW -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100px" />
+</div>
+
+<!-- FLOATING ANIMATED ELEMENTS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdi-Hope&label=Profile%20views&color=0b2b4f&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Abdi-Hope?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Abdi-Hope?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
-<!-- Animated Gradient Line -->
+<!-- 3D ROTATING TITLE -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=F59E0B&center=true&vCenter=true&random=false&width=600&lines=Hi+👋+I'm+Abdi+Abiot;Full-Stack+Developer;Problem+Solver;Code+Artist;Ethiopian+Developer" alt="3D Rotating Typing SVG" />
+</h1>
+
+<!-- GLOWING SUBTITLE -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=1000&color=0B2B4F&center=true&vCenter=true&width=500&lines=A+passionate+developer+from+Ethiopia;Building+awesome+web+apps;Turning+ideas+into+reality" alt="Glowing Subtitle" />
+</h3>
+
+<!-- ROTATING ORBIT EFFECT -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" width="50%"/>
+  <br/>
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</div>
+
+<!-- PROFILE VIEWS WITH ANIMATION -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdi-Hope&label=PROFILE+VIEWS&color=0b2b4f&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Abdi-Hope?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Abdi-Hope?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
+</p>
+
+<!-- ANIMATED DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-<!-- About Me Section with Interactive Cards -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdi-Hope&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdi-Hope&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<!-- Current Work Section with Animated Icons -->
+<!-- PERSONALIZED ABOUT ME SECTION (From Your Portfolio) -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-  📌 Current Activity
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdqdXV3aHV6ajhzb3g1MnNpYWNkaHN1YzFpcTA2aXU2ZzZvZXp1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcAnsBIffkiNk60fw/giphy.gif" width="35px"/>
+  About Me
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"/>
 </h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60px" /><br/>
-      <strong>🔭 Working on:</strong>
-      <br/>AE-Platform
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" /><br/>
-      <strong>🌱 Learning:</strong>
-      <br/>Node.js & MongoDB
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60px" /><br/>
-      <strong>💬 Ask me about:</strong>
-      <br/>React, Tailwind, Java, PHP
-    </td>
-  </tr>
-</table>
+<!-- GLOWING CARD FOR ABOUT ME -->
+<div align="center">
+  <table width="90%" style="border: none; background: linear-gradient(145deg, #0b2b4f10, #1e4a7a10); border-radius: 30px; box-shadow: 0 0 30px rgba(11, 43, 79, 0.3); animation: glow 3s infinite;">
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 20px; box-shadow: 0 0 30px #f59e0b; animation: rotate 10s infinite linear;" alt="Coding GIF" />
+      </td>
+      <td width="60%" align="left" style="padding: 30px;">
+        <h3 style="color: #f59e0b;">👨‍💻 Who Am I?</h3>
+        <p style="font-size: 16px; line-height: 1.8;">
+          <b>Software Engineering student</b> at Dire Dawa University with experience in full-stack development. 
+          <br/><br/>
+          🚀 Passionate about building web applications and solving real-world problems through code. I love creating interactive experiences that make a difference.
+          <br/><br/>
+          💡 Currently working on <b>AE-Platform</b> and diving deep into <b>Node.js & MongoDB</b>.
+          <br/><br/>
+          ⚡ When I'm not coding, I'm probably learning new technologies or contributing to open source.
+        </p>
+        <div style="display: flex; gap: 10px; margin-top: 20px;">
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Contact Section with Interactive Cards -->
+<!-- ROTATING ORBIT ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</div>
+
+<!-- Current Activity with Floating Cards -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
+  📌 Current Activity
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200" style="border-radius: 20px; box-shadow: 0 0 30px #0b2b4f; animation: float 3s infinite;">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80px" />
+        <br/>
+        <b>🔭 Working on:</b>
+        <br/>AE-Platform
+      </td>
+      <td align="center" width="200" style="border-radius: 20px; box-shadow: 0 0 30px #f59e0b; animation: float 3s infinite 1s;">
+        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80px" />
+        <br/>
+        <b>🌱 Learning:</b>
+        <br/>Node.js & MongoDB
+      </td>
+      <td align="center" width="200" style="border-radius: 20px; box-shadow: 0 0 30px #0b2b4f; animation: float 3s infinite 2s;">
+        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80px" />
+        <br/>
+        <b>💬 Ask me about:</b>
+        <br/>React, Tailwind, Java, PHP
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- CONNECT WITH ME - ROTATING BADGES -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
-  📫 Connect With Me
+  🌐 Connect With Me
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
 </h2>
 
 <p align="center">
   <a href="mailto:abdihope24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b2b4f" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/abdihope" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b2b4f" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Abdi-Hope" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0b2b4f" alt="GitHub" />
   </a>
   <a href="https://abdihope.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0b2b4f" alt="Portfolio" />
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</div>
 
-<!-- Languages and Tools Section -->
+<!-- TECH STACK WITH ROTATING ICONS -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"/>
-  🛠️ Languages and Tools
+  🛠️ Tech Stack
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"/>
 </h2>
 
+<!-- FRONTEND SECTION -->
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=30&labelColor=0b2b4f" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30&labelColor=0b2b4f" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b2b4f" />
 </p>
 
+<!-- BACKEND SECTION -->
 <p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Express.js" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0b2b4f" />
 </p>
 
+<!-- DATABASES & TOOLS -->
 <p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Figma" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0b2b4f" />
 </p>
 
+<!-- CLOUD & OTHER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&logoWidth=30&labelColor=0b2b4f" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&labelColor=0b2b4f" alt="Linux" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&logoWidth=30&labelColor=0b2b4f" alt="Android" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0b2b4f" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0b2b4f" />
 </p>
 
-<!-- 3D Stats Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi-Hope&theme=github_dark" width="90%" alt="Profile Summary" />
-</p>
-
-<!-- GitHub Activity Graph -->
+<!-- 3D STATS CARDS -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"/>
-  📊 GitHub Activity
+  📊 GitHub Analytics
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"/>
+</h2>
+
+<!-- STATS WITH ROTATING EFFECT -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Abdi-Hope&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdi-Hope&theme=tokyonight&hide_border=true&background=0D1117" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi-Hope&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 3D PROFILE SUMMARY -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi-Hope&theme=github_dark" width="95%" />
+</p>
+
+<!-- ACTIVITY GRAPH WITH GLOW -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px"/>
+  ⚡ Activity Graph
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdi-Hope&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=F59E0B&line=0b2b4f&point=FFFFFF" width="95%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdi-Hope&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=F59E0B&line=0b2b4f&point=FFFFFF&custom_title=My%20Contributions%20Graph" width="95%" />
 </div>
 
-<!-- Contribution Snake Animation -->
+<!-- ANIMATED SNAKE -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -148,48 +236,79 @@
   </picture>
 </div>
 
-<!-- Trophies -->
+<!-- TROPHIES WITH ROTATING EFFECT -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   🏆 GitHub Trophies
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdi-Hope&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdi-Hope&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="90%" />
 </p>
 
-<!-- Spotify Now Playing (Optional - Remove if you don't have Spotify) -->
+<!-- RANDOM DEV QUOTE WITH ANIMATION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px"/>
+  💭 Dev Quote of the Day
+</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="80%" />
+</p>
+
+<!-- SPOTIFY SECTION (OPTIONAL) -->
 <!--
 <h2 align="center">
   <img src="https://media.giphy.com/media/LMcAnsBIffkiNk60fw/giphy.gif" width="30px"/>
-  🎵 What I'm Listening To
+  🎵 Now Playing
 </h2>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0b2b4f&bar_color_cover=true" width="50%" />
 </p>
 -->
 
-<!-- Quote of the Day -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px"/>
-  💭 Random Dev Quote
-</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<!-- Footer -->
+<!-- FOOTER WITH WAVING ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=150&section=footer&animation=twinkling&fontSize=30&fontColor=fff" width="100%"/>
 </div>
 
-<!-- Visitor Counter and Footer -->
+<!-- ANIMATED VISITOR COUNTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
   <br/>
-  <b>⭐️ From [Abdi-Hope](https://github.com/Abdi-Hope) ⭐️</b>
+  <b>⭐️ Thanks for visiting! ⭐️</b>
   <br/>
-  <img src="https://profile-counter.glitch.me/Abdi-Hope/count.svg" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/Abdi-Hope/count.svg" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
+
+<!-- CUSTOM CSS ANIMATIONS (EMBEDDED IN MARKDOWN) -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  @keyframes glow {
+    0% { box-shadow: 0 0 10px #0b2b4f; }
+    50% { box-shadow: 0 0 50px #f59e0b; }
+    100% { box-shadow: 0 0 10px #0b2b4f; }
+  }
+  
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  img {
+    transition: all 0.5s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.1) rotate(5deg);
+    filter: drop-shadow(0 0 20px #f59e0b);
+  }
+</style>
